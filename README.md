@@ -3,7 +3,7 @@
 Para poder correr esta aplicacion solo hay que correr el siguiente comando usando tu terminal con tu prompt situado en la carpeta donde se quiera clonar el proyecto.
 
 ```sh
-$ git clone https://github.com/CharlesSilva/test-creze.git
+$ git clone https://github.com/IanCreze/Ian-Creze-Test.git
 ```
 
 despues podemos correr el proyecto en modo dev para esto en el mismo directorio corremos la siguiente linea
